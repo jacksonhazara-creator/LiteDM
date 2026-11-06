@@ -5,8 +5,10 @@ A fast download manager for Windows, with a browser extension for Chrome, Edge, 
 - Splits each download into up to 32 connections, with pause and resume
 - Saves video and audio from web pages in the quality you choose
 - Catches downloads from your browser and sorts them into folders (Music, Videos, Documents…)
-- Download lists with schedules, speed limits, and LAN and Wi-Fi together
-- Light, Dark and Nova themes; English, Deutsch, Français, Español, Türkçe, العربية, فارسی
+- Download lists with schedules and speed limits
+- Downloads through LAN, Wi-Fi and USB tethering from your phone – one of them, or several together for more speed
+- Checks every finished file for damaged parts and repairs them, automatically or when you click Repair
+- Light, Dark and Nova themes (with Lito the fox); English, Deutsch, Français, Español, Türkçe, العربية, فارسی
 - Updates itself
 
 ## Install
