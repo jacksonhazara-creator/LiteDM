@@ -8,6 +8,7 @@ A fast download manager for Windows, with a browser extension for Chrome, Edge, 
 - Download lists with schedules and speed limits
 - Downloads through LAN, Wi-Fi and USB tethering from your phone – one of them, or several together for more speed
 - Checks every finished file for damaged parts and repairs them, automatically or when you click Repair
+- History & cleanup: clear finished or failed downloads from the list, remove them automatically after a few days, clear the cache
 - Light, Dark and Nova themes (with Lito the fox); English, Deutsch, Français, Español, Türkçe, العربية, فارسی
 - Updates itself
 
